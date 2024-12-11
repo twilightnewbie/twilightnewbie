@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @twilightnewbie
 - 👀 I’m interested in anime
 
-- ⚡ Fun fact: love my ex...
+- ⚡ Fun fact: coding at 1A.M
 
 <!---
 twilightnewbie/twilightnewbie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
